@@ -1,11 +1,4 @@
-## Hi there 👋
-
-
-**Prabal-Srivastava/Prabal-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Hi 👋 My name is Prabal Srivastava
+Hi 👋 My name is Prabal Srivastava
 ==================================
 
 Student
@@ -51,13 +44,4 @@ Stay tuned for my upcoming blog posts! 📝 medium - https://medium.com/@prabalr
 ## Connect with Me
 
 "linkedin":"https://www.linkedin.com/in/srivastava-prabal"
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
