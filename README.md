@@ -1,47 +1,72 @@
-Hi 👋 My name is Prabal Srivastava
-==================================
+# Automation
 
-Student
--------
+## HTML, CSS, and JavaScript Code
 
-## About Me
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automation Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .container h1 {
+            margin-bottom: 20px;
+        }
+        .container input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .container button {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .container button:hover {
+            background-color: #218838;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Automation Example</h1>
+        <input type="text" id="inputField" placeholder="Enter something...">
+        <button onclick="displayMessage()">Submit</button>
+        <div class="message" id="message"></div>
+    </div>
 
-Recent Graduate in Bachelor of Computer Applications (BCA) with a keen interest in learning and implementing various technologies. Proficient in Linux Understanding of Networking Concepts, for ex:-(SSH protocols , smtp , httpd sever ) and work hand on project with the AWS Services like (ec2,s3,AWS Cloud Watch, lambda Functions) essential for ensuring effective and secure data communication. Committed to continuous learning and staying updated with the latest technological trends. Have problem-solving skills, with a knack for finding innovative solutions to complex problems.Currently, I am enhancing my skills and exploring new projects in the tech world. I believe in continuous learning and collaboration to achieve great results.
-
-
-* ✉️  You can contact me at [prabalrishu123@gmail.com](mailto:prabalrishu123@gmail.com)
-* 🧠  I'm learning Devops
-* 🤝  I'm open to collaborating on python , Linux , AWS , Automation
-
-<a href="https://github.com/Prabal-Srivastava" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/prabal003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-## Skills & Technologies
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-
-## Top Projects
-
-- [Portfoliio](https://github.com/Prabal-Srivastava/portfoliio) - This Website is About me and My Technological Stack. ⭐ 0 stars | Language: N/A | Forks: 0 | Issues: 0
-- [Stegnography TUI Based Project](https://github.com/Prabal-Srivastava/Stegnography_TUI_Based_Project) - TUI Based Stegnography For Data Hiding and Encoding and Decoding data present in Image file, Text file, Video File, Audio File. ⭐ 2 stars | Language: Jupyter Notebook | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-### Overview
-- **Public Repositories:** 2
-- **Followers:** 6
-- **Following:** 10
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabal-Srivastava&show_icons=true&hide_title=true&theme=radical)
-
-## Latest Blog Posts
-
-Stay tuned for my upcoming blog posts! 📝 medium - https://medium.com/@prabalrishu123
-
-## Connect with Me
-
-"linkedin":"https://www.linkedin.com/in/srivastava-prabal"
-
+    <script>
+        function displayMessage() {
+            const inputField = document.getElementById('inputField');
+            const message = document.getElementById('message');
+            message.textContent = `You entered: ${inputField.value}`;
+        }
+    </script>
+</body>
+</html>
