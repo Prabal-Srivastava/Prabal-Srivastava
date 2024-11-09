@@ -14,6 +14,7 @@ Recent Graduate in Bachelor of Computer Applications (BCA) with a keen interest 
 * 🤝  I'm open to collaborating on python , Linux , AWS , Automation
 
 <a href="https://github.com/Prabal-Srivastava" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/prabal003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ## Skills & Technologies
 
@@ -24,7 +25,6 @@ Recent Graduate in Bachelor of Computer Applications (BCA) with a keen interest 
 
 ## Top Projects
 
-- [Portfoliio](https://github.com/Prabal-Srivastava/portfoliio) - This Website is About me and My Technological Stack. ⭐ 0 stars | Language: N/A | Forks: 0 | Issues: 0
 - [Stegnography TUI Based Project](https://github.com/Prabal-Srivastava/Stegnography_TUI_Based_Project) - TUI Based Stegnography For Data Hiding and Encoding and Decoding data present in Image file, Text file, Video File, Audio File. ⭐ 2 stars | Language: Jupyter Notebook | Forks: 0 | Issues: 0
 
 ## GitHub Stats
