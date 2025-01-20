@@ -8,7 +8,7 @@
 
 I am a recent graduate with a Bachelor's in Computer Applications (BCA) and a passion for exploring and implementing emerging technologies. My primary areas of expertise include **Linux**, **Networking** (e.g., SSH protocols, SMTP, HTTPD server), and **AWS** services (such as EC2, S3, AWS CloudWatch, and Lambda Functions). 
 
-With focus on **cloud computing**, **automation**, and **security**, I enjoy problem-solving and creating innovative solutions to complex challenges. I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am expanding my skill set in **DevOps** and **AWS** to further enhance my technical capabilities.
+With  focus on **cloud computing**, **automation**, and **security**, I enjoy problem-solving and creating innovative solutions to complex challenges. I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am expanding my skill set in **DevOps** and **AWS** to further enhance my technical capabilities.
 
 I am open to collaboration on projects related to **Python**, **Linux**, **AWS**, and **Automation**.
 
@@ -56,9 +56,9 @@ I am open to collaboration on projects related to **Python**, **Linux**, **AWS**
 
 ## GitHub Streak Stats
 
-### 🔥 My GitHub Streak
+### 🔥 My Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-Srivastava&theme=dark&hide_border=true)
+![Prabal's GitHub Streak](https://streak-stats.demolab.com?user=Prabal-Srivastava&theme=radical&hide_border=true)
 
 ---
 
