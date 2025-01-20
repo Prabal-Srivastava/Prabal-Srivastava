@@ -8,7 +8,7 @@
 
 I am a recent graduate with a Bachelor's in Computer Applications (BCA) and a passion for exploring and implementing emerging technologies. My primary areas of expertise include **Linux**, **Networking** (e.g., SSH protocols, SMTP, HTTPD server), and **AWS** services (such as EC2, S3, AWS CloudWatch, and Lambda Functions). 
 
-With a focus on **cloud computing**, **automation**, and **security**, I enjoy problem-solving and creating innovative solutions to complex challenges. I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am expanding my skill set in **DevOps** and **AWS** to further enhance my technical capabilities.
+With focus on **cloud computing**, **automation**, and **security**, I enjoy problem-solving and creating innovative solutions to complex challenges. I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am expanding my skill set in **DevOps** and **AWS** to further enhance my technical capabilities.
 
 I am open to collaboration on projects related to **Python**, **Linux**, **AWS**, and **Automation**.
 
@@ -48,13 +48,17 @@ I am open to collaboration on projects related to **Python**, **Linux**, **AWS**
 
 ## GitHub Stats
 
-![Prabal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabal-Srivastava&show_icons=true&hide_title=true&theme=radical)
+### 🚀 My GitHub Stats
+
+![Prabal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabal-Srivastava&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ---
 
 ## GitHub Streak Stats
 
-![Prabal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-Srivastava&hide_border=true&theme=gruvbox)
+### 🔥 GitHub Streak
+
+![Prabal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-Srivastava&theme=radical&hide_border=true&fire=ffcc00)
 
 ---
 
