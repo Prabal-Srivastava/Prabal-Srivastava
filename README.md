@@ -76,8 +76,8 @@ An advanced steganography tool featuring:
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building-a-polyglot-application-with-microservices-and-cloud](https://medium.com/@prabalrishu123/building-a-polyglot-application-with-microservices-and-cloud-28a8d957de0d)
-- [Configuring Alerts in Prometheus and Displaying Them in Grafana]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/configuring-alerts-in-prometheus-and-displaying-them-in-grafana-e0554c65eca8)
-- [Setting Up Grafana on RHEL: A Step-by-Step Guide]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/setting-up-grafana-on-rhel-a-step-by-step-guide-351632331f3c)
+- [Configuring Alerts in Prometheus and Displaying Them in Grafana](https://medium.com/@prabalrishu123/configuring-alerts-in-prometheus-and-displaying-them-in-grafana-e0554c65eca8)
+- [Setting Up Grafana on RHEL: A Step-by-Step Guide](https://medium.com/@prabalrishu123/setting-up-grafana-on-rhel-a-step-by-step-guide-351632331f3c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect With Me
