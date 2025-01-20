@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Prabal Srivastava 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Computing+Enthusiast;DevOps+Engineer;AWS+Solutions+Architect;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Python" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 ### Tools & Technologies
@@ -76,9 +75,9 @@ An advanced steganography tool featuring:
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS: A Beginner's Guide](https://medium.com/@prabalrishu123)
-- [DevOps Best Practices for Cloud Applications](https://medium.com/@prabalrishu123)
-- [Automating Infrastructure with Terraform](https://medium.com/@prabalrishu123)
+- [Building-a-polyglot-application-with-microservices-and-cloud](https://medium.com/@prabalrishu123/building-a-polyglot-application-with-microservices-and-cloud-28a8d957de0d)
+- [Configuring Alerts in Prometheus and Displaying Them in Grafana]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/configuring-alerts-in-prometheus-and-displaying-them-in-grafana-e0554c65eca8))
+- [Setting Up Grafana on RHEL: A Step-by-Step Guide]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/setting-up-grafana-on-rhel-a-step-by-step-guide-351632331f3c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect With Me
