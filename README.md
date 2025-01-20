@@ -56,9 +56,9 @@ I am open to collaboration on projects related to **Python**, **Linux**, **AWS**
 
 ## GitHub Streak Stats
 
-### 🔥 GitHub Streak
+### 🔥 My GitHub Streak
 
-![Prabal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-Srivastava&theme=radical&hide_border=true&fire=ffcc00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-Srivastava&theme=dark&hide_border=true)
 
 ---
 
