@@ -8,7 +8,7 @@
   
 [![](https://komarev.com/ghpvc/?username=Prabal-Srivastava&color=blue&label=Profile+Views)](https://github.com/Prabal-Srivastava)
 [![](https://img.shields.io/github/followers/Prabal-Srivastava?label=Followers&style=social)](https://github.com/Prabal-Srivastava)
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/srivastava-prabal)
+
 
 </div>
 
@@ -76,7 +76,7 @@ An advanced steganography tool featuring:
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building-a-polyglot-application-with-microservices-and-cloud](https://medium.com/@prabalrishu123/building-a-polyglot-application-with-microservices-and-cloud-28a8d957de0d)
-- [Configuring Alerts in Prometheus and Displaying Them in Grafana]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/configuring-alerts-in-prometheus-and-displaying-them-in-grafana-e0554c65eca8))
+- [Configuring Alerts in Prometheus and Displaying Them in Grafana]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/configuring-alerts-in-prometheus-and-displaying-them-in-grafana-e0554c65eca8)
 - [Setting Up Grafana on RHEL: A Step-by-Step Guide]([https://medium.com/@prabalrishu123](https://medium.com/@prabalrishu123/setting-up-grafana-on-rhel-a-step-by-step-guide-351632331f3c)
 <!-- BLOG-POST-LIST:END -->
 
