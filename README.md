@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
--  Recent BCA Graduate from University of Lucknow
+-  Recent BCA Graduate from Sherwood College of Professional Management
 -  DevOps enthusiast with hands-on experience in CI/CD pipelines
 -  Currently mastering AWS services and Infrastructure as Code
 -  Regular writer on Medium about cloud computing and DevOps
