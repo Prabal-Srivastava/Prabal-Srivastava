@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! I'm Prabal Srivastava 👋</h1>
+<h1 align="center">Hello there! I'm Prabal Srivastava 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Python" alt="Typing SVG" />
+  Cloud Computing(AWS) DevOps Learner Python"  />
 </p>
 
 ## About Me
