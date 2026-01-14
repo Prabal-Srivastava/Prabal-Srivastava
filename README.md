@@ -6,8 +6,6 @@
 
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=Prabal-Srivastava&color=blue&label=Profile+Views)](https://github.com/Prabal-Srivastava)
-[![](https://img.shields.io/github/followers/Prabal-Srivastava?label=Followers&style=social)](https://github.com/Prabal-Srivastava)
 
 
 </div>
