@@ -1,7 +1,9 @@
 <h1 align="center">Hello there! I'm Prabal Srivastava 👋</h1>
 
 <p align="center">
-  Python Cloud Computing(AWS) and DevOps Learner
+  - Python 
+  - Cloud Computing(AWS) 
+  - DevOps Learner
 </p>
 
 ## About Me
