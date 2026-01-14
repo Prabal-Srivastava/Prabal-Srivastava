@@ -10,7 +10,7 @@
 -  Currently mastering AWS services and Infrastructure as Code
 -  Regular writer on Medium about cloud computing and DevOps
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Cloud & DevOps
 <p>
